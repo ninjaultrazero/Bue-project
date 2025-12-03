@@ -1,8 +1,3 @@
-Ecco **un README.md chiaro, ordinato e professionale**, costruito interamente sul regolamento che hai fornito.
-È già formattato in Markdown e pronto da usare in GitHub, itch.io o come documentazione ufficiale.
-
----
-
 # 🎴 BUÉ – Regole del Gioco
 
 Gioco ideato da **Mino Abbacuccio**
@@ -173,6 +168,13 @@ Sì, in qualsiasi momento.
 
 Su qualsiasi tua carta, rivelata o coperta.
 Puoi cambiare la destinazione finché non si conclude la partita.
+
+---
+
+## 📞 Contatti
+
+Per dubbi o domande: **+39 351 357 8567**
+Autore: **Mino Abbacuccio**
 
 ---
 
